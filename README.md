@@ -85,7 +85,10 @@ I added backup and restore because I wanted an extra safety option for saved rem
 
 ## Project setup
 
-Clone the repository:
-
 ```bash
+
 git clone https://github.com/ManaliRathod9/meetminder-reminder-app.git
+
+---
+
+Made with care by **Manali Rathod**
